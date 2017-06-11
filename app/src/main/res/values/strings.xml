@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musicapp</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="end">End</string>
+    <string name="shuffle_on">Shuffle mode ON</string>
+    <string name="shuffle_off">Shuffle mode OFF</string>
+</resources>
